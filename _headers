@@ -11,3 +11,6 @@
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
+/img/logo_bimi.svg
+  Access-Control-Allow-Origin: *
+  Cross-Origin-Resource-Policy: cross-origin
