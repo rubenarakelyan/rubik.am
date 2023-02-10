@@ -43,6 +43,10 @@ a, a:visited {
   color: #0029e4;
 }
 
+li {
+  list-style-type: "* ";
+}
+
 @media only screen and (max-width: 720px) {
   h1 {
     font-size: 2.5rem;
