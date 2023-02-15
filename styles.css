@@ -1,4 +1,8 @@
-/* Inspired by https://simplecss.org */
+/*
+  Inspired by https://simplecss.org
+  Minified by https://www.toptal.com/developers/cssminifier
+  SRI hash calculated by https://beautifycode.net/sri-hash-generator
+*/
 
 *, *::before, *::after {
   box-sizing: border-box;
@@ -11,13 +15,12 @@ html {
 
 body {
   background-color: #eee;
-  color: #000;
+  color: #343332;
   font-size: 1.15rem;
   line-height: 1.5;
   display: grid;
   grid-template-columns: auto max-content auto;
   margin: 0;
-  margin-bottom: 1rem;
 }
 
 body > * {
